@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Front-end developer focusing on javaScript desktop-first development, eager to learn programming utilities & languages.
+- 👀 I use both the logical and creative part of the brain.
+- 🌱 I’m currently learning javaScript.
+- 💞️ Constantly open to learning new technologies.
